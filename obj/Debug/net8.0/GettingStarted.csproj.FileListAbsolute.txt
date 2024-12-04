@@ -1,0 +1,14 @@
+/Users/renaldi./GettingStarted/bin/Debug/net8.0/GettingStarted
+/Users/renaldi./GettingStarted/bin/Debug/net8.0/GettingStarted.deps.json
+/Users/renaldi./GettingStarted/bin/Debug/net8.0/GettingStarted.runtimeconfig.json
+/Users/renaldi./GettingStarted/bin/Debug/net8.0/GettingStarted.dll
+/Users/renaldi./GettingStarted/bin/Debug/net8.0/GettingStarted.pdb
+/Users/renaldi./GettingStarted/obj/Debug/net8.0/GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renaldi./GettingStarted/obj/Debug/net8.0/GettingStarted.AssemblyInfoInputs.cache
+/Users/renaldi./GettingStarted/obj/Debug/net8.0/GettingStarted.AssemblyInfo.cs
+/Users/renaldi./GettingStarted/obj/Debug/net8.0/GettingStarted.csproj.CoreCompileInputs.cache
+/Users/renaldi./GettingStarted/obj/Debug/net8.0/GettingStarted.dll
+/Users/renaldi./GettingStarted/obj/Debug/net8.0/refint/GettingStarted.dll
+/Users/renaldi./GettingStarted/obj/Debug/net8.0/GettingStarted.pdb
+/Users/renaldi./GettingStarted/obj/Debug/net8.0/GettingStarted.genruntimeconfig.cache
+/Users/renaldi./GettingStarted/obj/Debug/net8.0/ref/GettingStarted.dll
